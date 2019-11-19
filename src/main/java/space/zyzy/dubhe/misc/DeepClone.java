@@ -1,4 +1,4 @@
-package space.zyzy.dubhe.test;
+package space.zyzy.dubhe.misc;
 
 import com.alibaba.fastjson.JSONObject;
 

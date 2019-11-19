@@ -1,4 +1,4 @@
-package space.zyzy.dubhe.datastructure.treegate;
+package space.zyzy.dubhe.datastructure.tree;
 
 /**
  * Tree入门
